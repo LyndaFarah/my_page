@@ -1,0 +1,22 @@
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+
+.myi{
+  display: inline;
+  justify-content: space-between;
+  gap: 10px;
+}
+
